@@ -1,4 +1,15 @@
-## Hi there 👋
+## About me...✨
+Hi I'm Bernice! A passionate newbie who wants to know more about coding before getting into Uni 🔮. <br/>
+
+
+
+## Goals of 2026-2027
+
+- [ ] Build my own rpg 2D game ⧖ <br/>
+- [ ] Complete CS50 course☀️
+
+
+
 
 <!--
 **Ber-L/Ber-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
