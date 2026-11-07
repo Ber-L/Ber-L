@@ -6,7 +6,8 @@ Hi I'm Bernice! A passionate newbie who wants to know more about coding before g
 ## Goals of 2026-2027
 
 - [ ] Build my own rpg 2D game ⧖ <br/>
-- [ ] Complete CS50 course☀️
+- [ ] Learn Python
+- [ ] Constantly build practice + tiny projects
 
 
 
